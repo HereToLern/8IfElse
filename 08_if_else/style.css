@@ -1,4 +1,31 @@
 .game-card {
-    height: 100vh;
-    font-family: 'Open Sans', monospace;
-}
+      height: 100vh; 
+    
+        font-family: 'Open Sans', monospace;
+    }
+    
+    .btn-info {
+        background-color: #6dfa4293;
+        color: rgb(64, 181, 228);
+    }
+    
+    .btn-lg {
+        background-color: rgb(#6dfa4293);
+        color: 64, 181, 228;
+    }
+    
+    .card-header {
+        background-color: rgb(225, 188, 4);
+        color: 64, 181, 228;
+    }
+    
+    .btn-link, .btn-primary {
+        background-color: rgb(225, 188, 4);
+        color: 64, 181, 228;
+    }
+    
+    .card-body, .card-footer {
+        background-color: rgb(247, 234, 214); 
+    }
+
+    
